@@ -1,1 +1,2 @@
 branch 東京
+branch 新潟
