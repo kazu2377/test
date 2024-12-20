@@ -2,3 +2,4 @@ branch 東京
 branch 新潟
 神奈川
 山梨
+東京都
